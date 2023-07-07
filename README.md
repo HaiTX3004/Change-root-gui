@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaiTX3004
+Hi, I’m @HaiTX3004
 
 <!---
 HaiTX3004/HaiTX3004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
